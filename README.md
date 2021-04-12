@@ -1,4 +1,6 @@
 # NewComerBoard
+
+## Kingsdom005
 Coming !@#$%
 
 ## PolarBear's plea for help
@@ -10,3 +12,6 @@ Hint Statement:
 Maybe x is the password we need.  
 PolarBear is very sad now.  
 He need your help to solve this equation.
+
+## yunqilee
+hahahaha
